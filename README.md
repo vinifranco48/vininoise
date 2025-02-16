@@ -16,6 +16,4 @@
 <img align = "center" alt = "html" src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 </div>
-
-## Atualmente, estou estudando Machine Learning e pretendo ingressar na área de Ciência de Dados.
 ### Projetos 
